@@ -14,4 +14,5 @@ Do the following to try it out:
 3. Run Portscanner again -> see a server at port 7 (this is the EchoServer)
 4. Start EchoClient
 5. Type something in the console -> see the same thing getting returned from the server in the console
+6. Type stop! to stop the EchoServer (or do it manually)
 
