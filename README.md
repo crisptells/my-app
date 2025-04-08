@@ -1,5 +1,4 @@
-POC of middleware project
-
+POC
 
 #Technologies
 - Project built with Maven (https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
